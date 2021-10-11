@@ -22,6 +22,36 @@
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/TGN-Robot)
 
 
+
+
+
+
+
+
+
+
+<p align="center">
+    <a href="https://github.com/darkphoenix2601/doreamon
+/stargazers"><img src="https://img.shields.io/github/stars/darkphoenix2601/doreamon
+?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+</p>
+<p align="center">
+    <a href="https://app.codacy.com/manual/darkphoenix2601/doreamon
+/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/darkphoenix2601/doreamon
+"> <img src="https://img.shields.io/github/repo-size/darkphoenix2601/doreamon
+?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/darkphoenix2601/doreamon/commits"> <img src="https://img.shields.io/github/last-commit/darkphoenix2601/doreamon?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/darkphoenix2601/doreamon
+/issues"> <img src="https://img.shields.io/github/issues/darkphoenix2601/doreamon
+?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/darkphoenix2601/doreamon
+/network/members"> <img src="https://img.shields.io/github/forks/darkphoenix2601/doreamon
+?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+</p>
+
+
 ## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
